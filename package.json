@@ -1,6 +1,6 @@
 {
   "homepage": "https://eman1970.github.io/node-deployment/",
-  "name": "x",
+  "name": "node-deployment",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
